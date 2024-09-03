@@ -1,1 +1,1 @@
-<image src="github3.gif" />
+<image src="github2.gif" />
